@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MediaWebsite5.git/static/css/main.d7c7a817.css",
+    "main.js": "/MediaWebsite5.git/static/js/main.489f5c00.js",
+    "static/js/787.4bcf3504.chunk.js": "/MediaWebsite5.git/static/js/787.4bcf3504.chunk.js",
+    "index.html": "/MediaWebsite5.git/index.html",
+    "main.d7c7a817.css.map": "/MediaWebsite5.git/static/css/main.d7c7a817.css.map",
+    "main.489f5c00.js.map": "/MediaWebsite5.git/static/js/main.489f5c00.js.map",
+    "787.4bcf3504.chunk.js.map": "/MediaWebsite5.git/static/js/787.4bcf3504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c7a817.css",
+    "static/js/main.489f5c00.js"
+  ]
+}
