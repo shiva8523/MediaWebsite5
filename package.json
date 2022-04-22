@@ -1,5 +1,5 @@
 {
-  "homepage":"https://shiva8523.github.io/Mediawebsite3.git",
+  "homepage": "https://shiva8523.github.io/MediaWebsite5.git",
   "name": "serverwitharruseeffeusestate",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
