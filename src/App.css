@@ -4,19 +4,17 @@
   border-radius: 2rem;
   margin:0.2rem;
   
-  
-  
 }
+
 img{
   width: 200px;
   height:200px;
   margin:0.5rem;
   border-radius: 0.5rem;
-  position:relative;
-  left:90px;
-
-
+  
 }
+
+
 table,tr{
   margin:0.5rem;
   width:200px;
